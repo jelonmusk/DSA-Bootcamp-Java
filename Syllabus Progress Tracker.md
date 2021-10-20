@@ -181,4 +181,4 @@
  	- [ ] Topological Sort
  	- [ ] Bellman ford
  	- [ ] A* pathfinding Algorithm
- - [ ] Advanced concepts apart from interviews
+ - [ ] [Advanced concepts apart from interviews](https://github.com/jelonmusk/DSA-Bootcamp-Java/blob/main/Advanced%20concepts%20apart%20from%20interviews.md)
