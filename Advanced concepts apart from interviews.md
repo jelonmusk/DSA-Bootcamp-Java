@@ -1,0 +1,12 @@
+- [ ] Bitwise + DP
+- [ ] Extended Euclidean algorithm
+- [ ] Modulo Multiplicative Inverse
+- [ ] Linear Diophantine Equations
+- [ ] Matrix Exponentiation
+- [ ] Combinatorics
+- [ ] Mathematical Expectation
+- [ ] Fermat’s Theorem
+- [ ] Wilson's Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
+- [ ] NP-Completeness
