@@ -1,18 +1,18 @@
 - [ ] Complete Git & GitHub Course
 - [ ] Introduction to Programming
-	- [ ] Types of languages
+	- [x] Types of languages
  	- [ ] Memory management
- - [ ] Flow of the program
- 	- [ ] Flowcharts
- 	- [ ] Pseudocode
+ - [x] Flow of the program
+ 	- [x] Flowcharts
+ 	- [x] Pseudocode
  - [ ] Introduction to Java
- 	- [ ] Introduction
- 	- [ ] How it works
- 	- [ ] Setup Installation
- 	- [ ] Input and Output in Java
- 	- [ ] Conditionals & Loops in Java
- 		- [ ] if else
- 		- [ ] loops
+ 	- [x] Introduction
+ 	- [x] How it works
+ 	- [x] Setup Installation
+ 	- [x] Input and Output in Java
+ 	- [x] Conditionals & Loops in Java
+ 		- [x] if else
+ 		- [x] loops
  		- [ ] Switch statements
  	- [ ] Data types
  	- [ ] Coding best practices
